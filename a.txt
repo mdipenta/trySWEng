@@ -5,3 +5,4 @@ Change to a
 hello
 hello again 
 hello newfeature2
+hello again newfeature2
