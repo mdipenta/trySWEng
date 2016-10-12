@@ -2,3 +2,4 @@ This is file b
 Change to b
 yet another change to b in master
 this is change to b
+this is change to b
