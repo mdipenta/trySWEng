@@ -7,3 +7,4 @@ hello
 hello again 
 hello newfeature2
 hello again newfeature2
+BUG FIXED
